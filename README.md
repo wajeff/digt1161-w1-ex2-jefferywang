@@ -1,1 +1,4 @@
-# digt1161-w1-ex2-jefferywang
+# DIGT1161 Exercise 2
+
+# Context
+PR request best pratices assignment
